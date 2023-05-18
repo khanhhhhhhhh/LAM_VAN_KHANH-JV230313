@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  margin-left: 15px;
+    max-width: 750px;
+    background-color: rgb(194, 200, 200);
+    height: 500px;
+    padding: 10px;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+input{
+  width: 600px;
+  height: 25px;
+  position: absolute;
+}
+.fa-magnifying-glass{
+  position:relative;
+  top: 6px;
+  left: 5px;
+}
+/* ////// */
+

@@ -1,0 +1,34 @@
+textarea{
+    position: absolute;
+    margin-top: 10px;
+}
+
+span{
+    display: flex;
+    position: relative;
+    top: 122px;
+    gap: 165px;
+
+}
+.icon{
+    position: absolute;
+    padding: 5px;
+}
+i{
+    position: relative;
+    bottom: -15px;
+    left: 214px;
+}
+form{
+    margin-top: 5px;
+   
+}
+textarea{
+background-color: aquamarine;
+
+}
+button{
+    position: relative;
+    bottom: -42px;
+    right: -31px;
+}
